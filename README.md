@@ -8,8 +8,8 @@
 
 ## Objetivo
 
-O objetivo do projeto foi desenvolver um modelo capaz de prever a **probabilidade de um cliente aceitar uma nova campanha de marketing**.  
-Trata-se de um problema de **classificação binária**, em que o modelo estima se o cliente responderá positivamente à campanha ou não.
+O objetivo do projeto foi desenvolver um modelo capaz de prever a probabilidade de um cliente aceitar uma nova oferta de produto durante uma campanha de marketing direto.
+Trata-se de um problema de classificação binária, em que o modelo estima se o cliente responderá positivamente à campanha, ou seja, se realizará uma compra após o contato promocional.
 
 ---
 
